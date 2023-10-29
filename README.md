@@ -1,4 +1,4 @@
-# theaded_rng_cache
+# threaded_rng_cache
 
 A multithreaded cache for random generators that is populated in the background greatly improving performance.
 
